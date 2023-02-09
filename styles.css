@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+h3 {
+  
+    font-family: sans-serif;
+    font-size: x-large;
+}
+
+img {
+    width: 300px;
+}
+
+.Section {
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    border: solid 0.5px rgb(97, 97, 97);
+    box-shadow: 8px 8px 5px rgb(116, 114, 114);
+  
+
+}
+
+.description{
+    width: 280px;
+    padding: 5px;
+    margin: 5px;
+    border: solid 0.5px;
+}
+
+
+.italics {
+   font-style: italic;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+ul,li{
+    margin:0;
+    padding:0;
+    list-style: none;
+   }
+
